@@ -16,6 +16,4 @@ The repository includes:
 - Comparative analysis of model performance  
 - Scripts for training, evaluation, and visualization  
 
----
 
-## 📂 Repository Structure
