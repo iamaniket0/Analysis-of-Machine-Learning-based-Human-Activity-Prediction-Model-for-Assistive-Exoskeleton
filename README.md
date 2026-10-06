@@ -14,6 +14,7 @@ The repository includes:
 - Data preprocessing and feature extraction pipelines  
 - Implementation of multiple machine learning models  
 - Comparative analysis of model performance  
-- Scripts for training, evaluation, and visualization  
+- Scripts for training, evaluation, and visualization
+- Automation pipeline integration
 
 
